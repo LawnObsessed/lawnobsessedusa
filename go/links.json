@@ -247,6 +247,18 @@
   "retailer": "solutionsPestLawn",
   "url": "https://www.solutionsstores.com/triad-select-herbicide"
  },
+ "green-lawnger--domyown": {
+  "product": "Green Lawnger Turf Colorant",
+  "brand": "BASF",
+  "retailer": "domyown",
+  "url": "https://www.domyown.com/green-lawnger-turf-paint-p-1552.html"
+ },
+ "green-lawnger--solutionspestlawn": {
+  "product": "Green Lawnger Turf Colorant",
+  "brand": "BASF",
+  "retailer": "solutionsPestLawn",
+  "url": "https://www.solutionsstores.com/green-lawnger-turf-colorant"
+ },
  "headway-g--domyown": {
   "product": "Headway G (azoxystrobin + propiconazole)",
   "brand": "Syngenta",
