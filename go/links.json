@@ -33,7 +33,8 @@
   "product": "Barricade (prodiamine) granular",
   "brand": "The Andersons",
   "retailer": "domyown",
-  "url": "https://www.domyown.com/search.php?keyword=Andersons+Barricade"
+  "url": "https://andersonslawn.com/products/barricade",
+  "note": "not sold at domyown; forwards to andersons"
  },
  "andersons-contec-dg-18-3-18--andersons": {
   "product": "Contec DG 18-3-18",
@@ -111,7 +112,8 @@
   "product": "PGF Complete 16-4-8 with Humic DG",
   "brand": "The Andersons",
   "retailer": "domyown",
-  "url": "https://www.domyown.com/search.php?keyword=PGF+Complete"
+  "url": "https://andersonslawn.com/products/pgf-complete-16-4-8",
+  "note": "not sold at domyown; forwards to andersons"
  },
  "andersons-prophesy--andersons": {
   "product": "Prophesy (propiconazole) granular",
@@ -141,13 +143,13 @@
   "product": "Azoxy 2SC Select (generic Heritage)",
   "brand": "Prime Source",
   "retailer": "solutionsPestLawn",
-  "url": "https://www.solutionsstores.com/search?q=Azoxy+2SC"
+  "url": "https://www.solutionsstores.com/azoxy-2sc-select-fungicide"
  },
  "celsius-wg--domyown": {
   "product": "Celsius WG",
   "brand": "Bayer / Envu",
   "retailer": "domyown",
-  "url": "https://www.domyown.com/search.php?keyword=Celsius+WG"
+  "url": "https://www.domyown.com/celsius-wg-herbicide-p-1923.html"
  },
  "celsius-wg--golfcourselawn": {
   "product": "Celsius WG",
@@ -171,7 +173,7 @@
   "product": "Drive XLR8 (quinclorac)",
   "brand": "BASF",
   "retailer": "domyown",
-  "url": "https://www.domyown.com/search.php?keyword=Drive+XLR8"
+  "url": "https://www.domyown.com/drive-xlr8-herbicide-crabgrass-killer-p-1520.html"
  },
  "drive-xlr8--golfcourselawn": {
   "product": "Drive XLR8 (quinclorac)",
@@ -243,7 +245,7 @@
   "product": "Triad Select 3-Way",
   "brand": "Golf Course Lawn",
   "retailer": "solutionsPestLawn",
-  "url": "https://www.solutionsstores.com/search?q=Triad+Select"
+  "url": "https://www.solutionsstores.com/triad-select-herbicide"
  },
  "headway-g--domyown": {
   "product": "Headway G (azoxystrobin + propiconazole)",
@@ -339,7 +341,7 @@
   "product": "Prodiamine 65 WDG (generic Barricade)",
   "brand": "Quali-Pro / generic",
   "retailer": "solutionsPestLawn",
-  "url": "https://www.solutionsstores.com/search?q=Prodiamine+65+WDG"
+  "url": "https://www.solutionsstores.com/prodiamine-65-wdg-barricade-herbicide"
  },
  "propiconazole-14-3--domyown": {
   "product": "Propiconazole 14.3",
@@ -369,7 +371,7 @@
   "product": "SedgeHammer Plus (halosulfuron)",
   "brand": "Gowan",
   "retailer": "solutionsPestLawn",
-  "url": "https://www.solutionsstores.com/search?q=SedgeHammer+Plus"
+  "url": "https://www.solutionsstores.com/sedgehammer-nutsedge-killer"
  },
  "sls-humic-seaweed--simplelawnsolutions": {
   "product": "Soil Hume (humic + seaweed)",
@@ -411,7 +413,7 @@
   "product": "SpeedZone EW",
   "brand": "PBI-Gordon",
   "retailer": "domyown",
-  "url": "https://www.domyown.com/search.php?keyword=SpeedZone+EW"
+  "url": "https://www.domyown.com/speedzone-ew-broadleaf-herbicide-for-turf-p-23518.html"
  },
  "speedzone-southern--domyown": {
   "product": "SpeedZone Southern",
@@ -435,7 +437,7 @@
   "product": "T-Nex 1 AQ (trinexapac-ethyl)",
   "brand": "Quali-Pro",
   "retailer": "solutionsPestLawn",
-  "url": "https://www.solutionsstores.com/search?q=T-Nex"
+  "url": "https://www.solutionsstores.com/t-nex-plant-growth-regulator"
  },
  "talstar-p--domyown": {
   "product": "Talstar P (bifenthrin)",
@@ -453,7 +455,7 @@
   "product": "Tenacity (mesotrione)",
   "brand": "Syngenta",
   "retailer": "solutionsPestLawn",
-  "url": "https://www.solutionsstores.com/search?q=Tenacity"
+  "url": "https://www.solutionsstores.com/tenacity-herbicide"
  },
  "yard-mastery-12-12-12-starter--yardmastery": {
   "product": "12-12-12 Starter",
