@@ -32,7 +32,7 @@
  "andersons-barricade-granular--domyown": {
   "product": "Barricade (prodiamine) granular",
   "brand": "The Andersons",
-  "retailer": "domyown",
+  "retailer": "andersons",
   "url": "https://andersonslawn.com/products/barricade",
   "note": "not sold at domyown; forwards to andersons"
  },
@@ -45,8 +45,9 @@
  "andersons-contec-dg-18-3-18--domyown": {
   "product": "Contec DG 18-3-18",
   "brand": "The Andersons",
-  "retailer": "domyown",
-  "url": "https://www.domyown.com/the-andersons-contec-dg-fertilizer-18-18-p-26361.html"
+  "retailer": "andersons",
+  "url": "https://andersonslawn.com/products/contec-dg-18-3-18",
+  "note": "not sold at domyown; forwards to andersons"
  },
  "andersons-core-24-6-12--andersons": {
   "product": "Core 24-6-12",
@@ -111,7 +112,7 @@
  "andersons-pgf-complete-16-4-8--domyown": {
   "product": "PGF Complete 16-4-8 with Humic DG",
   "brand": "The Andersons",
-  "retailer": "domyown",
+  "retailer": "andersons",
   "url": "https://andersonslawn.com/products/pgf-complete-16-4-8",
   "note": "not sold at domyown; forwards to andersons"
  },
@@ -136,8 +137,9 @@
  "azoxy-2sc--domyown": {
   "product": "Azoxy 2SC Select (generic Heritage)",
   "brand": "Prime Source",
-  "retailer": "domyown",
-  "url": "https://www.domyown.com/azoxy-2sc-select-p-15183.html"
+  "url": "https://www.amazon.com/dp/B07D6ZDTLW",
+  "retailer": "amazonUS",
+  "note": "not sold at domyown; forwards to amazonUS"
  },
  "azoxy-2sc--solutionspestlawn": {
   "product": "Azoxy 2SC Select (generic Heritage)",
@@ -172,8 +174,9 @@
  "drive-xlr8--domyown": {
   "product": "Drive XLR8 (quinclorac)",
   "brand": "BASF",
-  "retailer": "domyown",
-  "url": "https://www.domyown.com/drive-xlr8-herbicide-crabgrass-killer-p-1520.html"
+  "retailer": "golfCourseLawn",
+  "url": "https://golfcourselawn.store/products/drive-xlr8-herbicide-crabgrass-weed-killer",
+  "note": "not sold at domyown; forwards to golfCourseLawn"
  },
  "drive-xlr8--golfcourselawn": {
   "product": "Drive XLR8 (quinclorac)",
@@ -358,8 +361,9 @@
  "propiconazole-14-3--domyown": {
   "product": "Propiconazole 14.3",
   "brand": "Quali-Pro / generic",
-  "retailer": "domyown",
-  "url": "https://www.domyown.com/propiconazole-143-p-16567.html"
+  "url": "https://www.amazon.com/dp/B004GTONG8",
+  "retailer": "amazonUS",
+  "note": "not sold at domyown; forwards to amazonUS"
  },
  "propiconazole-14-3--solutionspestlawn": {
   "product": "Propiconazole 14.3",
@@ -376,8 +380,9 @@
  "sedgehammer-plus--domyown": {
   "product": "SedgeHammer Plus (halosulfuron)",
   "brand": "Gowan",
-  "retailer": "domyown",
-  "url": "https://www.domyown.com/sedgehammer-herbicide-p-1348.html"
+  "url": "https://www.amazon.com/dp/B007PHNUOE",
+  "retailer": "amazonUS",
+  "note": "not sold at domyown; forwards to amazonUS"
  },
  "sedgehammer-plus--solutionspestlawn": {
   "product": "SedgeHammer Plus (halosulfuron)",
@@ -424,8 +429,9 @@
  "speedzone-ew--domyown": {
   "product": "SpeedZone EW",
   "brand": "PBI-Gordon",
-  "retailer": "domyown",
-  "url": "https://www.domyown.com/speedzone-ew-broadleaf-herbicide-for-turf-p-23518.html"
+  "url": "https://www.amazon.com/dp/B004W4ZFXW",
+  "retailer": "amazonUS",
+  "note": "not sold at domyown; forwards to amazonUS"
  },
  "speedzone-southern--domyown": {
   "product": "SpeedZone Southern",
